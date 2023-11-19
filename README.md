@@ -17,6 +17,6 @@
 ## algorithm 
 
  step 1 . back ground mask 생성
- 
+   - 코너 주변 지점에서 추출하여 마스크 생성
 
- step 2 . mask alpha value 조정
+ step 2 . mask 에 따라 alpha value 조정
