@@ -1,11 +1,11 @@
 # pybgclear
 
-"how to use"
+##how to use
 ```
   python -m pybgclear <input file> 
 ```
 
-"related package"
+##related package
 
   PIL
   numpy
